@@ -52,7 +52,3 @@ View all applications to track job search progress.
 
 Delete entries if needed.
 
-📧 Contact
-
-For any questions, feel free to reach out via [Your Email] or visit [Your GitHub Profile].
-
